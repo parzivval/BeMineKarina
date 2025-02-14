@@ -2,7 +2,7 @@ document.getElementById('yessir').addEventListener('click', () => {
     const header = document.querySelector('h1');
     const btnContainer = document.querySelector('.btns');
 
-    header.textContent = "You had no options 🤍";
+    header.textContent = "Every moment with you makes me happier 🤍";
     header.classList.add('text-change-animation');
 
     btnContainer.style.display = 'none';
